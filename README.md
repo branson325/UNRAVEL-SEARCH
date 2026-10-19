@@ -1,4 +1,4 @@
-# 🎗️Unravel Search
+# 🎗️Unravel Search [ADD NEW TAB AND USE THAT BEFORE SEARCHING]
 
 Unravel is a Java desktop search app with a dark red theme, browser-style tabs,
 web search, and a built-in browser for opening pages. It can also ask a local
