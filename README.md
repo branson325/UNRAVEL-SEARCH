@@ -1,4 +1,4 @@
-# 🎗️Unravel Search [ADD NEW TAB AND USE THAT BEFORE SEARCHING]
+# 🎗️Unravel Search
 
 Unravel is a Java desktop search app with a dark red theme, browser-style tabs,
 web search, and a built-in browser for opening pages. It can also ask a local
@@ -171,3 +171,7 @@ features that WebView does not support.
 - `pom.xml` — Java version, dependencies, and Maven run configuration
 - `src/main/resources/dark-red.css` — application theme
 - `run.bat` — Windows launcher
+
+<p>
+  <img src="images/logo.png" alt="logo file icon" width="48">
+</p>
