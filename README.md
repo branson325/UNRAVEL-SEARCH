@@ -173,5 +173,5 @@ features that WebView does not support.
 - `run.bat` — Windows launcher
 
 <p>
-  <img src="images/logo.png" alt="logo file icon" width="48">
+  <img src="src/images/logo.png" alt="logo file icon" width="48">
 </p>
